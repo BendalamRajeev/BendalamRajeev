@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Rajeev Bendalam</h1>
+<h1 align="center">Hi 
+  <a href="https://github.com/PremSaiBollamoni" target="_self">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  </a>
+, I'm Rajeev Bendalam</h1>
 <h3 align="center">🚀 Android Developer | 🌐 Full Stack Developer | 🤖 Tech Enthusiast</h3>
 
 <p align="center">
