@@ -48,15 +48,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BendalamRajeev&show_icons=true&theme=radical" alt="Rajeev's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BendalamRajeev&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 📽️ Featured Projects
 
 | Project | Description |
@@ -64,7 +55,7 @@
 | 🔧 [Offline Language Translator](https://github.com/BendalamRajeev/offline-language-translator) | Android app for fast, offline translations |
 | 🧵 [SMO Android App](https://github.com/BendalamRajeev/SMO-Android-App) | Tracks sewing machine & worker performance |
 | 🌐 [Spring Boot Backend](https://github.com/BendalamRajeev/smo-backend) | REST API backend for SMO system |
-| 🛒 [E-Commerce Web App](https://github.com/BendalamRajeev/ecommerce-app) | Modern full-stack app with Next.js, Firebase & Stripe integration |
+| 🛒 [E-Commerce Web App](https://github.com/BendalamRajeev/ecommerce-app) | Full-featured prototype using React, TypeScript, TailwindCSS & Express |
 
 ---
 
@@ -80,7 +71,7 @@
 
 <p align="left">
   <a href="https://github.com/BendalamRajeev" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/bendalamrajeev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/bendalam-rajeev-392170274/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:bendalamrajeev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
